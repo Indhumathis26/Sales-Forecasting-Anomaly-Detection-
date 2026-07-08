@@ -1,17 +1,16 @@
 # 📊 PowerBI Sales Forecasting & Anomaly Detection Dashboard
 
-A Power BI project featuring two interactive dashboards for sales analysis, trend forecasting, and anomaly detection.
+A Power BI project featuring interactive dashboard for sales analysis, trend forecasting, and anomaly detection.
 
 ---
 
 ## 📁 Files
 
 - `Sales Forecasting & Anomaly Detection.pbix` — Forecasting & anomaly detection dashboard
-- `Sales-Dashboard.pbix` — General sales performance dashboard
 
 ---
 
-## 🔍 Dashboard 1: Sales Forecasting & Anomaly Detection
+## 🔍 Dashboard : Sales Forecasting & Anomaly Detection
 
 Key metrics: **Sum of Sales, Sum of Quantity, Sum of Profit**, filterable by Region.
 
@@ -23,20 +22,6 @@ Includes:
   - Significant sales trend increases/decreases over specific date ranges
   - Sharpest growth periods
   - Detected anomalies in sales data
-
----
-
-## 📈 Dashboard 2: Sales Dashboard
-
-Key metrics: **Sum of Profit, Sum of Discount, Sum of Sales, Count of Postal Code**, filterable by Region.
-
-Includes:
-- Sum of Profit by Region
-- Sum of Quantity by Product Name
-- Count of Country/Region by Category
-- Geographic map of sales by State
-- Sum of Sales by Segment (pie chart)
-- Sum of Sales by Region (donut chart)
 
 ---
 
